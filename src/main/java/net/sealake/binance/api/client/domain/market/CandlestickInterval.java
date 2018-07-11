@@ -2,7 +2,7 @@ package net.sealake.binance.api.client.domain.market;
 
 /**
  * Kline/Candlestick intervals.
- * m -> minutes; h -> hours; d -> days; w -> weeks; M -> months
+ * m means minutes; h means hours; d means days; w means weeks; M means months
  */
 public enum CandlestickInterval {
   ONE_MINUTE("1m"),
